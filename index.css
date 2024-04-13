@@ -1,0 +1,97 @@
+header{
+    padding: o;
+    border: 0;
+}
+body{height: 100vh;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;padding: 2px 20px;box-shadow:2px 2px 2px 1px rgba(0, 0, 0, alpha);
+}
+ul{list-style: none;display: flex;text-align: right;gap: 25px;
+
+}
+a{
+    text-decoration: none;color: black;
+}
+.homepage {
+    background-image: url(https://cdn.pixabay.com/photo/2016/12/26/17/28/spaghetti-1932466_1280.jpg);
+    background-position: center;
+    background-size: cover;flex-direction: column;justify-content: center;color: white;
+    height: 100vh;
+
+}
+.homepage{
+    font-size: 48px;
+}
+.homebuttons{
+    display: flex;color: yellow;gap: 25px;
+}
+.alvin{color: orange;}
+p{font-size: large;}
+.homebuttons .order-1{
+    background-color: orange;padding: 10px;
+}
+main>section{
+    display: flex;padding: 20px;gap: 20px;
+}
+main>section>.about{padding-top: 3%;
+
+}
+main>section>.about>button{
+    background-color: orange;color: white;font-weight: bold;
+    padding: 5px 8px;border-style: none;box-shadow: -6px -6pc 10px;
+}
+.card{display:flex;justify-content: center;gap: 25px;}
+#header{
+    padding: 6%;text-align: center;justify-content: center;
+}
+#par{
+    text-align: center;padding: 2%;
+}
+.card-content1{
+    background-color: gainsboro;
+    margin: 2%;padding: 4%;border-radius: 10px;width:250px;height: 190px;
+}
+.card-content1:hover{background-color: #ff7f00;}
+
+.card-content2{
+    background-color: gainsboro;margin:2%;padding: 4%;border-radius: 10px;
+    width: 250px;height: 250px;text-align: center;justify-content: ;
+}
+.card-content2:hover{background-color: #ff7f00;}
+.card-content3{
+    background-color: gainsboro;margin:2%;
+    padding:4% ;border-radius:10px ;width: 250px;height: 250px;
+}
+.card-content3:hover{background-color: #ff7f00;}
+#our-services{
+    justify-content: space space-around;
+}
+.owino{background-color: #ff7f00;border-radius: 20px;
+}
+.card-menu{
+display: flex;justify-content: center;flex-direction:row;}
+
+.container-menu {
+    display: flex;gap: 25px;justify-content: space-between;
+}
+.serv-con{
+    text-align: center;
+}
+.service>div.card {
+    text-align: center;
+}
+i{
+    background-color: white;height: 30px;width: 30px;border-radius: 50%;align-items: center;
+    justify-content: space-around;text-align: center;display: flex;
+}
+.review-card1{
+    display: flex;flex-direction: row;
+}
+
+
+    
+
